@@ -1,6 +1,5 @@
 import socket
 import sys
-import colorama
 from colorama import Fore, Style
 
 def server(log_buffer=sys.stderr):
